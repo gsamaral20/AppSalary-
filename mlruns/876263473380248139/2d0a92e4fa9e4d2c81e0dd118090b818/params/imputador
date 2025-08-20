@@ -1,0 +1,2 @@
+CategoricalImputer(fill_value='Não informado',
+                   variables=['ufOndeMora', 'cargoAtual', 'nivel'])

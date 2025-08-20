@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/876263473380248139/8523c738e63d4ec3895e46ff6b06e1d6/artifacts
+end_time: 1755729282003
+entry_point_name: ''
+experiment_id: '876263473380248139'
+lifecycle_stage: active
+run_id: 8523c738e63d4ec3895e46ff6b06e1d6
+run_name: righteous-whale-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755729241272
+status: 3
+tags: []
+user_id: gabri

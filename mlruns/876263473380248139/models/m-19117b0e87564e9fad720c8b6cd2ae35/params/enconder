@@ -1,0 +1,3 @@
+OneHotEncoder(variables=['genero', 'pcd', 'ufOndeMora', 'cargoAtual', 'nivel',
+                         'tempoDeExperienciaEmDados',
+                         'tempoDeExperienciaEmTi'])
