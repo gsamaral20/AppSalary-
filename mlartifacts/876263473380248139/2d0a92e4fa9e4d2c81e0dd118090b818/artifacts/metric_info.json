@@ -1,4 +1,0 @@
-{
-  "accuracy_score-2_X_test": "accuracy_score(y_true=y_test, y_pred=y_teste_predict)",
-  "accuracy_score_X_train": "accuracy_score(y_true=y_train, y_pred=y_train_predict)"
-}

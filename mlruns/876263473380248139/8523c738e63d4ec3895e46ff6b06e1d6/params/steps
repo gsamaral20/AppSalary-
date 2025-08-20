@@ -1,4 +1,0 @@
-[('imputador', CategoricalImputer(fill_value='Não informado',
-                   variables=['ufOndeMora', 'cargoAtual', 'nivel'])), ('enconder', OneHotEncoder(variables=['genero', 'pcd', 'ufOndeMora', 'cargoAtual', 'nivel',
-                         'tempoDeExperienciaEmDados',
-                         'tempoDeExperienciaEmTi'])), ('algoritmo', RandomForestClassifier(min_samples_leaf=10, random_state=42))]
